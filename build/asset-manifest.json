@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c081d899.css",
+    "main.js": "/static/js/main.61d9c3fc.js",
+    "static/media/organic-products-hero.png": "/static/media/organic-products-hero.0501ecae74983b3eca7f.png",
+    "static/media/image.webp": "/static/media/image.86f52f375aead5e0f445.webp",
+    "static/media/banner-01.jpg": "/static/media/banner-01.c8535256a6f9d4f06f6d.jpg",
+    "static/media/organic-store-logo5.svg": "/static/media/organic-store-logo5.119db71e5e689b1c4986a40a797b5d88.svg",
+    "static/media/basil-leaf.png": "/static/media/basil-leaf.ad6ac5ae8f20a2fc6b6d.png",
+    "static/media/output-onlinepngtools.png": "/static/media/output-onlinepngtools.d5b7b04d3acb7cad9c6e.png",
+    "static/media/coffee-asorted-400x400.jpg": "/static/media/coffee-asorted-400x400.6647122a746fee0d0b96.jpg",
+    "static/media/product11-free-img.jpg": "/static/media/product11-free-img.91c37bba3ad8d0a7820f.jpg",
+    "index.html": "/index.html",
+    "static/media/index.js": "/static/media/index.a6bd8c21fa55ee44dfe1.js",
+    "main.c081d899.css.map": "/static/css/main.c081d899.css.map",
+    "main.61d9c3fc.js.map": "/static/js/main.61d9c3fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c081d899.css",
+    "static/js/main.61d9c3fc.js"
+  ]
+}
